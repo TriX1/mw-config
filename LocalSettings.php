@@ -550,6 +550,7 @@ $wgConf->settings = array(
 		'allthetropeswiki' => true,
 		'developmentwiki' => true,
 		'extloadwiki' => true,
+		'perpuswiki' => true,
 		'universebuildwiki' => true,
 	),
 	'wmgUseNoTitle' => array(
@@ -687,6 +688,7 @@ $wgConf->settings = array(
 		'apolcourseswiki' => true,
 		'extloadwiki' => true,
 		'idtestwiki' => true,
+		'perpuswiki' => true,
 	),
 	// Requires copying of two directories: https://www.mediawiki.org/wiki/Extension:SocialProfile#Directories
 	// Requires run of update.php
